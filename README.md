@@ -1,25 +1,21 @@
-HackerRank Practice Repository 🚀
-Welcome to my HackerRank coding journey! This repository documents my progress through HackerRank's challenges, serving as both a personal archive and a learning resource. 📚
+📘 HackerRank Practice
+Welcome to my HackerRank practice repository!
+Here you'll find well-documented solutions to challenges I've solved while sharpening my coding skills on HackerRank.
 
-📂 Repository Contents
-🧩 Problem Domains:
+📂 Topics Covered:
+C++
 
--Algorithms (Search, Sort, Dynamic Programming, etc.)
+Python
 
--Data Structures (Trees, Graphs, Linked Lists, etc.)
+SQL
 
--Mathematics (Number Theory, Probability, etc.)
+Problem Solving
 
--SQL (Queries, Joins, Optimization)
+Data Structures
 
--Artificial Intelligence
+Algorithms
 
-💻 Supported Languages
--C++ (Primary)
+Strings & Loops
 
--Python (Secondary)
-
--Java (Growing)
-
--SQL (For database challenges)
+Feel free to browse, learn, or suggest improvements! 🚀
 
