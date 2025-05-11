@@ -1,32 +1,50 @@
 #include <iostream>
-#include <cstdio>
-using namespace std;
 
-     
+using namespace std;
+/*
+ * Create classes Rectangle and RectangleArea
+ */
 class Rectangle{
     public:
         int height,width;
         void display(){
-            cout<<height<<""<<width<<endl;
+            cout<<height<<" "<<width<<endl;
         }
         };
 
         
-class RectangleArea :               
+class RectangleArea : public Rectangle{
     public:
           void read_input(){
             cin>>height>>width;
           }
         void display(){
-            Rectangle::diplay(){
-                cout<<height*width;
-            }
+                cout<<height*width<<endl;
+            
         }
          };
+
 int main()
 {
+    /*
+     * Declare a RectangleArea object
+     */
     RectangleArea r_area;
-
+    
+    /*
+     * Read the width and height
+     */
+    r_area.read_input();
+    
+    /*
+     * Print the width and height
+     */
+    r_area.Rectangle::display();
+    
+    /*
+     * Print the area
+     */
+    r_area.display();
     
     return 0;
 }
