@@ -42,7 +42,7 @@ int main()
     r_area.Rectangle::display();
     
     /*
-     * Print the area
+     * Print the Area
      */
     r_area.display();
     
